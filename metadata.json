@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sonara LRC — Music Player Pro \u0026 Synced Lyrics Studio",
+  "description": "Pemutar musik lokal bergaya Music Player Pro inshot inc yang mendukung pencarian lirik .lrc online dengan cara copy-paste, mendukung penyimpanan lirik ke folder perangkat editor serta mendukung lirik real-time ala Musicolet.\n\nBuat agar aplikasi dapat dikenali oleh poweramp equalizer dan mendukung tag editor serta album art. ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
